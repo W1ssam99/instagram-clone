@@ -3,9 +3,9 @@ import 'package:meta/meta.dart';
 
 part 'toggle_color_state.dart';
 
-class ToggleColorCubit extends Cubit<ToggleColorState> {
+class ToggleLikeCubit extends Cubit<ToggleLikeState> {
   bool isLike = false;
-  ToggleColorCubit() : super(ToggleColorInitial());
+  ToggleLikeCubit() : super(ToggleColorInitial());
 
   void toggleColor() {
     isLike = !isLike;

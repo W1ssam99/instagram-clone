@@ -1,10 +1,9 @@
-<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="General / Chat_Right_Tail / 24px /" clip-path="url(#clip0_1608_846)">
-<path id="Ellipse 62 (Stroke)" d="M18.9766 20.7687C19.2677 20.8867 19.5998 20.8396 19.8467 20.6452C20.0942 20.4503 20.2178 20.1374 20.1703 19.826L20.3695 21.1332C20.3841 21.2292 20.2885 21.3044 20.1986 21.2677L18.9766 20.7687Z" fill="#262626" stroke="#262626" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="General / 3_Lines / 24px /">
+<g id="Union">
+<path d="M2 4C2 3.44772 2.44772 3 3 3H21C21.5523 3 22 3.44772 22 4C22 4.55229 21.5523 5 21 5L3 5C2.44772 5 2 4.55228 2 4Z" fill="#262626"/>
+<path d="M2 12C2 11.4477 2.44772 11 3 11L21 11C21.5523 11 22 11.4477 22 12C22 12.5523 21.5523 13 21 13L3 13C2.44772 13 2 12.5523 2 12Z" fill="#262626"/>
+<path d="M3 19C2.44772 19 2 19.4477 2 20C2 20.5523 2.44772 21 3 21L21 21C21.5523 21 22 20.5523 22 20C22 19.4477 21.5523 19 21 19L3 19Z" fill="#262626"/>
 </g>
-<defs>
-<clipPath id="clip0_1608_846">
-<rect width="24" height="24" fill="white" transform="translate(0 0.244385)"/>
-</clipPath>
-</defs>
+</g>
 </svg>

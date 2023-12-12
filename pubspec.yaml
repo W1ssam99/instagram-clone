@@ -41,6 +41,7 @@ dependencies:
   velocity_x: ^4.1.2
   random_string: ^2.3.1
   avatar_stack: ^1.2.0
+  random_avatar: ^0.0.8
 
 dev_dependencies:
   flutter_test:
